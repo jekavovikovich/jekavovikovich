@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T21:00:36.538Z" agent="5.0 (X11)" etag="-vK4-qMrqNGd4ujdSUDH" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T21:01:26.639Z" agent="5.0 (X11)" etag="tTLvGsitrXSsiEvOUvn6" version="14.9.1" type="github">
   <diagram id="gx4LN6bsJ0upEz2Kghdg" name="Page-1">
     <mxGraphModel dx="1673" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-51" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;6А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-51" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;6А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-52" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -349,7 +349,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;КНОПКА&lt;/div&gt;&lt;div&gt;1А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;КНОПКА&lt;/div&gt;&lt;div&gt;1А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-55" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -406,7 +406,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;25А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;25А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-64" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -425,7 +425,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-66" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;16А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-66" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;16А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-67" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -444,7 +444,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-69" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;16А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-69" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;16А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-70" value="" style="endArrow=none;html=1;" edge="1" parent="1">
