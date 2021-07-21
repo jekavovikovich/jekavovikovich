@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T19:53:48.220Z" agent="5.0 (X11)" etag="6n_POfoB5iLQ6IbBECco" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T20:03:10.674Z" agent="5.0 (X11)" etag="JdUIDf7jTiYYpCabpJhw" version="14.9.1" type="github">
   <diagram id="gx4LN6bsJ0upEz2Kghdg" name="Page-1">
     <mxGraphModel dx="1673" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -306,6 +306,30 @@
             <mxPoint x="550" y="440" as="sourcePoint" />
             <mxPoint x="1040" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;К УЛИТКЕ ДЫМОГЕНЕРАТОРА&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-18" value="&lt;font style=&quot;font-size: 30px&quot;&gt;40 KV&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-20" value="&lt;font style=&quot;font-size: 12px&quot;&gt;ДАТЧИК ТЕМПЕРАТУРЫ В ПРОДУКТ (ЩУП)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-21" value="ТЭН ПАРОГЕНЕРАТОРА 2 КВт" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-22" value="КОНВЕКТОРЫ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-23" value="1-й ТЭН В КАМЕРЕ 2,5КВт" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-24" value="2-й ТЭН В КАМЕРЕ 2,5 КВт" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weF5eFfAUtp39m-wOyLp-25" value="ДАТЧИК ТЕМПЕРАТУРЫ В КАМЕРЕ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
