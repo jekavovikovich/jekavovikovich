@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T20:41:49.574Z" agent="5.0 (X11)" etag="kuOn4fRvSyw1Z0W6Q9_Y" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T20:48:05.252Z" agent="5.0 (X11)" etag="BkUUv5hdwlhffxmqcmVG" version="14.9.1" type="github">
   <diagram id="gx4LN6bsJ0upEz2Kghdg" name="Page-1">
     <mxGraphModel dx="1673" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="weF5eFfAUtp39m-wOyLp-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;автомат 6А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="paTJHKrVfdt6l4FZ6ix--2" value="БЛОК ПИТАНИЯ 12V" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -330,7 +330,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-51" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;6А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-52" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -349,7 +349,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;КНОПКА&lt;/div&gt;&lt;div&gt;1А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-55" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -368,7 +368,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-57" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ГЕРКОН&lt;/div&gt;&lt;div&gt;концевик двери&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-58" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -387,7 +387,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;КНОПКА&lt;/div&gt;&lt;div&gt;1А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-61" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -406,7 +406,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-63" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;25А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-64" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -425,7 +425,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-66" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;16А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-67" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -444,7 +444,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-69" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-69" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;АВТОМАТ&lt;/div&gt;&lt;div&gt;16А&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-70" value="" style="endArrow=none;html=1;" edge="1" parent="1">
