@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T21:09:00.964Z" agent="5.0 (X11)" etag="bSSGzZB3yZ7J3VL94MZk" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T21:11:34.284Z" agent="5.0 (X11)" etag="JaUFj2UhuweYZdv8N0iy" version="14.9.1" type="github">
   <diagram id="gx4LN6bsJ0upEz2Kghdg" name="Page-1">
     <mxGraphModel dx="1673" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="paTJHKrVfdt6l4FZ6ix--4" value="&lt;div&gt;ШИМ&lt;/div&gt;&lt;div&gt;РЕГУЛЯТОР&lt;/div&gt;&lt;div&gt;ОБОРОТОВ&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="720" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="paTJHKrVfdt6l4FZ6ix--5" value="ВОЛЬТМЕТР" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="paTJHKrVfdt6l4FZ6ix--5" value="&lt;div&gt;ЦИФРОВОЙ&lt;/div&gt;&lt;div&gt;ВОЛЬТМЕТР&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="880" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="paTJHKrVfdt6l4FZ6ix--6" value="&lt;div&gt;индикатор сети&lt;/div&gt;&lt;div&gt;лампа&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="paTJHKrVfdt6l4FZ6ix--15" value="&lt;div&gt;индикатор В.В.&lt;/div&gt;&lt;div&gt;светодиод&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
           <mxGeometry x="600" y="225" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="paTJHKrVfdt6l4FZ6ix--17" value="ТЕРМОМЕТР" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="paTJHKrVfdt6l4FZ6ix--17" value="&lt;div&gt;ЦИФРОВОЙ&lt;/div&gt;&lt;div&gt;ТЕРМОМЕТР&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="480" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="paTJHKrVfdt6l4FZ6ix--19" value="&lt;div&gt;ТЕРМОСТАТ&lt;/div&gt;&lt;div&gt;STC-1000&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
