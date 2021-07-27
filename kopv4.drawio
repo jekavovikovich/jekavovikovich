@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T07:45:03.225Z" agent="5.0 (X11)" etag="zljVoEbqo2CuxGL2x2ps" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T07:50:25.316Z" agent="5.0 (X11)" etag="U5aAeAnK_f2fsa9rC2zs" version="14.9.1" type="github">
   <diagram id="gx4LN6bsJ0upEz2Kghdg" name="Page-1">
     <mxGraphModel dx="1422" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -162,22 +162,23 @@
             <mxPoint x="1040" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-2" value="`" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-2" value="`" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="paTJHKrVfdt6l4FZ6ix--20">
+          <mxGeometry x="-0.2341" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="619.4099999999999" as="sourcePoint" />
             <mxPoint x="600" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="619" />
+              <mxPoint x="540" y="600" />
               <mxPoint x="540" y="660.41" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-3" value="`" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="weF5eFfAUtp39m-wOyLp-3" value="`" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="paTJHKrVfdt6l4FZ6ix--20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="579.9999999999999" as="sourcePoint" />
             <mxPoint x="600" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="580" />
+              <mxPoint x="540" y="600" />
               <mxPoint x="540" y="520" />
             </Array>
           </mxGeometry>
@@ -484,8 +485,8 @@
             <mxPoint x="200" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weF5eFfAUtp39m-wOyLp-86" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Выключатель&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;В.В + измерителя&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;температуры&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="105" width="110" height="50" as="geometry" />
+        <mxCell id="weF5eFfAUtp39m-wOyLp-86" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Выключатель&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Д.Г. + В.В + Цифр.Термом.&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="115" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="weF5eFfAUtp39m-wOyLp-87" value="&lt;div&gt;Выключатель&lt;/div&gt;&lt;div&gt;дымогенератора&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="115" width="110" height="30" as="geometry" />
