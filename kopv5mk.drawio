@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T08:33:25.963Z" agent="5.0 (X11)" etag="5R0Vux2NJRvYC5H6uCxp" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T08:40:21.641Z" agent="5.0 (X11)" etag="aJwfWo-oC3ERB1Lf9Zlx" version="14.9.2" type="github">
   <diagram id="9jheEHDDxWndXmeWKkwG" name="Page-1">
     <mxGraphModel dx="1673" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
         <mxCell id="J9gdxeYjHLM6oxPjCNeX-162" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="161" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J9gdxeYjHLM6oxPjCNeX-163" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;КОНЦЕВИК &quot;ОТКЛЮЧИ ЩУП!&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="J9gdxeYjHLM6oxPjCNeX-163" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;КОНЦЕВИК ПОДКЛЮЧЕННОГО ЩУПА&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="560" y="194" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J9gdxeYjHLM6oxPjCNeX-164" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;индикатор&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;В.В.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
@@ -642,6 +642,12 @@
         </mxCell>
         <mxCell id="J9gdxeYjHLM6oxPjCNeX-256" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;ДВЕРЬ ОТКРЫТА!&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;ЭЛЕКТРОСТАТИКА ОТКЛЮЧЕНА!&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="740" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J9gdxeYjHLM6oxPjCNeX-257" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J9gdxeYjHLM6oxPjCNeX-260" value="UR6LQF для &quot;КоптимСебеСами&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="570" y="810" width="110" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
